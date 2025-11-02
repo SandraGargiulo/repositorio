@@ -1,2 +1,1 @@
-# repositorio
-practicas mundose
+# Mi proyecto DevOps
